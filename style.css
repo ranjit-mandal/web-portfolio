@@ -68,3 +68,8 @@ p{
     border-image: linear-gradient(180deg, cyan, blue);
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
