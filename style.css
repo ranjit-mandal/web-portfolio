@@ -45,4 +45,26 @@ h2{
 }
 p{
     color: dimgray;
+    text-align: justify;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+    padding: 10px 30px;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#full-stack-right{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg, cyan, blue);
+    border-image-slice: 1;
 }
